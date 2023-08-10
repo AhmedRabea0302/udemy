@@ -83,6 +83,8 @@ if ( ! defined( 'WP_DEBUG' ) ) {
 	define( 'WP_DEBUG', false );
 }
 
+define('WP_DISABLE_FATAL_ERROR_HANDLER', true );
+
 
 define('AUTH_KEY',         'YcZUuYHA4qH86TL0AewfcYg7Rgo08B6sJphvYRXGgpx9fPRkl40TfqKM9vPm2zTfT9IP6RvBz+0yMZo9/tWlgQ==');
 define('SECURE_AUTH_KEY',  '8RVGiyeuSf9Upla0xgHf5uAaQQVqshZYGXqyMBDBvIeyS2szJD1ZF/47UH8Fdf05hprrhYAPywLZ8hO7ExaXpA==');

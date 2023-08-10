@@ -1,0 +1,2 @@
+[10-Aug-2023 20:51:41 UTC] PHP Warning:  Attempt to read property "title" on null in /home/fadloovich/Local Sites/udemy/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[10-Aug-2023 20:59:40 UTC] PHP Warning:  Attempt to read property "title" on null in /home/fadloovich/Local Sites/udemy/app/public/wp-includes/class-wp-customize-widgets.php on line 905
